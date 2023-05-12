@@ -6,10 +6,10 @@ GitHub  :   https://github.com/sshah115/multiview-3d-reconstruction
 
 |Name|UID|Directory ID|
 |:---:|:---:|:---:|
-|Shail Kiritkumar Shah|119340547|sshah115|
-|Paul Monaghan|113505904|pmonagha|
+|Shail Kiritkumar Shah|119340547|sshah115@umd.edu|
+|Paul Monaghan|113505904|pmonagha@umd.edu|
 |Abdul Noor Mohammed|118530185|amohamm6@umd.edu|
-|Rohit Reddy Pakhala|||
+|Rohit Reddy Pakhala|119399125|rpakhala@umd.edu|
 |Alexander Tyler Warder|||
 
 
