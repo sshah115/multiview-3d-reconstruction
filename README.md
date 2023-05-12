@@ -1,12 +1,14 @@
 # ENPM673 Perception for Autonomous Robots | Final Project
 
+GitHub  :   https://github.com/sshah115/multiview-3d-reconstruction
+
 ## Team
 
 |Name|UID|Directory ID|
 |:---:|:---:|:---:|
 |Shail Kiritkumar Shah|119340547|sshah115|
-|Paul Monaghan|||
-|Abdul Noor Mohammed|||
+|Paul Monaghan|113505904|pmonagha|
+|Abdul Noor Mohammed|118530185|amohamm6@umd.edu|
 |Rohit Reddy Pakhala|||
 |Alexander Tyler Warder|||
 
@@ -54,8 +56,32 @@ import following libraries for the script to run correctly:
 After running the code through IDE or terminal the following will be shown as result:
 
 1. Calibration matrix or K matrix
+
+![K-Matrix](./results/calibration/kmatrix.jpeg)
+
+### Sample - 1
+
+![Sample-1](./results/calibration/resultimage1.jpg)
+
+### Sample - 2
+
+![Sample-2](./results/calibration/resultimage3.jpg)
+
+### Sample - 3
+
+![Sample-3](./results/calibration/resultimage6.jpg)
+
 2. Depth map
 
+Depth map has been computed for complete video, however, two instances have been shown below as example:
+
+### Sample - 1
+
+![Sample-1](./results/depth/depth_sample1.jpeg)
+
+### Sample - 2
+
+![Sample-2](./results/depth/depth_sample2.jpeg)
 
 ```
 The important thing to note is the address to fetch the images. The images can be kept in the same folder as its script and the terminal path can be changed to the directory where the script and ./Calibration_Imgs is then path can be just its name as under:
