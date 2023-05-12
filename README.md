@@ -10,8 +10,7 @@ GitHub  :   https://github.com/sshah115/multiview-3d-reconstruction
 |Paul Monaghan|113505904|pmonagha@umd.edu|
 |Abdul Noor Mohammed|118530185|amohamm6@umd.edu|
 |Rohit Reddy Pakhala|119399125|rpakhala@umd.edu|
-|Alexander Tyler Warder|||
-
+|Alexander Tyler Warder|117913200|awarder@umd.edu|
 
 # Multiview 3d reconstruction
 
